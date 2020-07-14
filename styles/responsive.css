@@ -1,71 +1,107 @@
 @media (max-width: 700px){
     
-    #page-home {
-        background-position-x: 70vw ;
-    }
-    #page-home .content{
-        align-items: center;
-        text-align: center;
-    }
+#page-home {
+background-position-x: 70vw ;
+}
+#page-home .content{
+align-items: center;
+text-align: center;
+}
     #page-home header a{
-        position: absolute;
-        bottom: 48px;
-        left: 50%;
-        transform:  translateX(-50%);
+    position: absolute;
+    bottom: 20px;
+    left: 50%;
+    transform:  translateX(-50%);
+    }
+    #page-home header img{
+     margin-bottom: 10px;
     }
     #page-home main{
        align-items: center;
     }
+        #page-home main h1{
+        font-size: 35px;
+        }
+        #page-home main p{
+        font-size: 20px;
+        }
+    
+        #page-home main a{
+        margin-bottom: 8px;
+        }
+
     #searchresults .cards{
-        grid-template-columns: 1fr;
-    }
-    #searchresults .card {
-        margin-bottom: 15px;
-    }
-    #searchresults .cards img {
+    grid-template-columns: 1fr;
+    }    
+         #searchresults .cards img {
         height: 210px;
         border-radius: 8px;
+        }
 
+    #searchresults .card{
+    background-color: #dfffdf;
+    border-radius: 8px;
+    padding: 10px;
+    margin-bottom: 15px;
     }
 
-    #searchresults main .card{
-        background-color: #dfffdf;
-        border-radius: 8px;
-        padding: 10px;
+    #createpoint form{
+    margin-top: 50px; 
+  
+    padding: 15px;
+    width: 95%;
+        
     }
+        #createpoint form h1{
+        font-size: 29px;
+        }
+
+        #createpoint form legend{
+        margin-bottom: 25px;
+        }
+            #createpoint form legend h2{
+            font-size: 19px;
+            }
+
+        #createpoint form input, form select{
+        background-color: #f0f0f5;
+          
+        border: 0;
+        padding: 10px 15px;
+        width: 100%;
+        }
 }
 @media (min-width: 701px) and (max-width: 900px){
-    #page-home {
-        background-position-x: 70vw ;
-    }
-    #page-home .content{
-        align-items: center;
-        text-align: center;
-    }
+#page-home {
+background-position-x: 70vw ;
+}
+#page-home .content{
+align-items: center;
+text-align: center;
+}
     #page-home header a{
-        position: absolute;
-        bottom: 48px;
-        left: 50%;
-        transform:  translateX(-50%);
+    position: absolute;
+    bottom: 48px;
+    left: 50%;
+    transform:  translateX(-50%);
     }
+
     #page-home main{
-       align-items: center;
+    align-items: center;
     }
-    #searchresults main .card{
+        #searchresults main .card{
         background-color: white;
         border-radius: 8px;
         padding-bottom: 10px;
-    }
-    #searchresults .cards{
-        grid-template-columns: 1fr 1fr;
-    }
-    
-    #searchresults .card {
         margin-bottom: 15px;
+        }
+
+    #searchresults .cards{
+    grid-template-columns: 1fr 1fr;
     }
-    #searchresults .cards img {
+        #searchresults .cards img {
         height: 210px;
-    }
+        }
 }
 @media (min-width: 1700px){
     #page-home {
