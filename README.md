@@ -10,9 +10,7 @@ Ecoleta</h1>
 ### Modal 
 <img src="https://github.com/jpm4rtinss/SiteEcoleta/blob/master/extras-aula-1/modalreadme.PNG" alt="home web"  height="425" align="center">
 
-
-
-### Search - web
+### Create point - web
 <img src="https://github.com/jpm4rtinss/SiteEcoleta/blob/master/extras-aula-1/searchreadme.PNG" alt="home web"  align="center">
 <img src="https://github.com/jpm4rtinss/SiteEcoleta/blob/master/extras-aula-1/searchreadme2.PNG" alt="home web"  align="center">
 
