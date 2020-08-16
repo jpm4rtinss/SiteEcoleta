@@ -5,6 +5,7 @@ Ecoleta</h1>
 
 ### Home - web
 <img src="https://github.com/jpm4rtinss/SiteEcoleta/blob/master/extras-aula-1/Homereadme.PNG" alt="home web"  height="425" align="center">
+
 ### Home - Mobile
 <img src="https://github.com/jpm4rtinss/SiteEcoleta/blob/master/extras-aula-1/homemobreadme.PNG" alt="home web"  height="425" align="center">
 
