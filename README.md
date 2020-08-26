@@ -1,7 +1,8 @@
 <h1 align="center">
 Ecoleta</h1>
  
-<p align="center">Plataforma de coleta seletiva de lixo desenvolvido para a Next Level Week promovida pela Rocketseat. Layout responsivo e logica feita em javascript</p> 
+<p align="center">
+Selective garbage collection platform developed for the Next Level Week promoted by Rocketseat. Responsive layout and logic made in javascript.</p> 
 
 ### Home - web
 <img src="https://github.com/jpm4rtinss/SiteEcoleta/blob/master/extras-aula-1/Homereadme.PNG" alt="home web"  height="425" align="center">
@@ -20,10 +21,12 @@ Ecoleta</h1>
 ### Points - web
 <img src="https://github.com/jpm4rtinss/SiteEcoleta/blob/master/extras-aula-1/pointsreadme.PNG" alt="home web"  height="425" align="center">
 
+## Text language
+- **Portugese - BR**
 
-## Linguagens e bibliotecas
+## Teck stack
 
 - **JS**  
-- **CSS** (Grid layout e flexbox)  
+- **CSS** (Grid layout and flexbox)  
 -  **HTML**
 
