@@ -21,12 +21,11 @@ Selective garbage collection platform developed for the Next Level Week promoted
 ### Points - web
 <img src="https://github.com/jpm4rtinss/SiteEcoleta/blob/master/extras-aula-1/pointsreadme.PNG" alt="home web"  height="425" align="center">
 
-## Text language
-- **Portugese - BR**
-
 ## Teck stack
 
 - **JS**  
 - **CSS** (Grid layout and flexbox)  
 -  **HTML**
 
+## Text language
+- **Portugese - BR**
