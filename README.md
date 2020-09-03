@@ -7,7 +7,7 @@ Selective garbage collection platform developed for the Next Level Week promoted
 ### Web
 <img src="https://github.com/jpm4rtinss/SiteEcoleta/blob/master/extras-aula-1/Homereadme.PNG" alt="home web"  height="425" align="center">
 
-### Home - Mobile
+### Mobile
 <img src="https://github.com/jpm4rtinss/SiteEcoleta/blob/master/extras-aula-1/homemobreadme.PNG" alt="home web"  height="425" align="center">
 
 
