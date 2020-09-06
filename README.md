@@ -11,7 +11,7 @@ Selective garbage collection platform developed for the Next Level Week promoted
 <img src="https://github.com/jpm4rtinss/SiteEcoleta/blob/master/extras-aula-1/homemobreadme.PNG" alt="home web"  height="425" align="center">
 
 
-
+### 🛠 Tech stack
 - **JS**  
 - **CSS** (Grid layout and flexbox)  
 -  **HTML**
