@@ -16,5 +16,5 @@ Selective garbage collection platform developed for the Next Level Week promoted
 - **CSS** (Grid layout and flexbox)  
 -  **HTML**
 
-## Text language
+### Text language
 - **Portugese - BR**
