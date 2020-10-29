@@ -18,4 +18,4 @@ Selective garbage collection platform developed for the Next Level Week promoted
 
 
 ### Text language
-- **Portugese - BR**
+- **Portuguese - BR**
